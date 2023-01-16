@@ -1,5 +1,5 @@
 # Week2-BE
 📐Java programming II
 
-### Giorno1
+### Giorno 1
 Handling errors using try/catch 
